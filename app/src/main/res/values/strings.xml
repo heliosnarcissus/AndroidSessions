@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Android KT</string>
+    <string name="relative_button"> Relative Layout</string>
+</resources>
